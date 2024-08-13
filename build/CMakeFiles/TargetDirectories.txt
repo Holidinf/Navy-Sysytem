@@ -1,0 +1,3 @@
+/home/holidin/Documents/UI/UI/build/CMakeFiles/UI.dir
+/home/holidin/Documents/UI/UI/build/CMakeFiles/edit_cache.dir
+/home/holidin/Documents/UI/UI/build/CMakeFiles/rebuild_cache.dir
